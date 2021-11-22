@@ -54,7 +54,7 @@ jobs:
 
   # # 🤖 CD paragraph
   # #
-  # # uncomment the following lines to activate CD to Heroku
+  # # uncomment the following lines to activate CD to Heroku test
   # # - remove the 2 trailing characters "# ", do not change the spaces
   # #   (there should be 2 spaces before the `deploy_heroku` key)
   # # - keep in mind you also need to configure Heroku HEROKU_API_KEY and HEROKU_EMAIL in GitHub secrets
